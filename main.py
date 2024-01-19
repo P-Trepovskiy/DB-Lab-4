@@ -4,9 +4,9 @@ import psycopg2
 db_params = {
     'host': 'localhost',
     'port': '5432',
-    'database': 'lab4',
+    'database': 'Lab3',
     'user': 'postgres',
-    'password': 'postgres'
+    'password': 'post'
 }
 
 # Queries
